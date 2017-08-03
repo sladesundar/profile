@@ -1,0 +1,12 @@
+.flexbox {
+  display: flex;
+  justify-content: space-around;
+  /*horizontal alignment*/
+  align-items: center;
+  /*vertical alignment*/
+}
+
+.flex-item {
+flex: x x 200px;
+/*flex grown, flex shrink, default size relative to the flexbox*/
+}
